@@ -54,4 +54,7 @@ Code: .py, .html, .css, .js, .cpp, .java
 
 Others: Files that do not match any extension will be moved here.
 
-  
+  After running the program:
+![Screenshot 2024-11-20 174041](https://github.com/user-attachments/assets/03bc3266-67bd-4a16-8ced-2291a945dcad)
+
+
